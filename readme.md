@@ -1,0 +1,1 @@
+to run this project write `python wsgi.py`
