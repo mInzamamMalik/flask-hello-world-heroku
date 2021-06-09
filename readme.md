@@ -1,13 +1,13 @@
 # Run this project locally:
 
 
-> to run this project you must have to have `python v3.6.8` in your machines, like this:
+> to run this project you must have to have `python3` in your machines, like this:
 ```
 malik@Apples-MBP ~ % python3 --version
 Python 3.6.8
 malik@Apples-MBP ~ % 
 ```
-> and your pip must be associated with that python3.6.8 installation lioke this:
+> and your pip must be associated with that same python3 installation lioke this:
 ```
 malik@Apples-MBP ~ % pip3 --version
 pip 18.1 from /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/pip (python 3.6)
